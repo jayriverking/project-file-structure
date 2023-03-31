@@ -1,0 +1,1 @@
+Exercise for creating file structure for organizing projects.
