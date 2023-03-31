@@ -1,5 +1,5 @@
-import division
-
+import pytest
+from calculate import division
 def test_division():
     assert division.perform_operation(10, 5) == 2
     assert division.perform_operation(1, 1) == 1

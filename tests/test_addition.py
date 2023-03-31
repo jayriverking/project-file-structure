@@ -1,5 +1,6 @@
-import addition
 
+import pytest
+from calculate import addition
 def test_addition():
     # Assert
     assert addition.perform_operation(1, 1) == 2
