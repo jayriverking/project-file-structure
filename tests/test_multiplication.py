@@ -1,6 +1,4 @@
-import pytest
 from calculate import multiplication
-from calculate import addition
 
 def test_multiplication():
     # Assert
